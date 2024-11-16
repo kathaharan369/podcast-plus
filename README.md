@@ -19,6 +19,8 @@ A project that demonstrates the use of Android Jetpack Compose to build a UI for
 
 ## Demo video
 
+https://github.com/user-attachments/assets/a9cf31ab-e4c2-413e-8783-0a73953dfe17
+
 
 
 
