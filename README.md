@@ -21,6 +21,10 @@ A project that demonstrates the use of Android Jetpack Compose to build a UI for
 
 https://github.com/user-attachments/assets/a9cf31ab-e4c2-413e-8783-0a73953dfe17
 
+## project report
+
+[Naan_mudhalvan_report.pdf](https://github.com/user-attachments/files/17786773/Naan_mudhalvan_report.pdf)
+
 
 
 
