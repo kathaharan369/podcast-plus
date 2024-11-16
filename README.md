@@ -10,5 +10,5 @@
 4.The app allows users to choose , play and pause podcasts.
 
 ## Results
-![Project NM_20241116_122608_0000-1](https://github.com/user-attachments/assets/96547e1a-39af-4d8a-8685-43c2780042ac)
+
 
